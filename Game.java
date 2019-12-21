@@ -1,10 +1,6 @@
 public class Game {
 	private int rolls[] = new int[21];
-<<<<<<< HEAD
 	private int currentRoll = 878787;
-=======
-	private int currentRoll = 87;
->>>>>>> hotfix
 	private String test ;
 
 
